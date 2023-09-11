@@ -1,4 +1,4 @@
-<h1 align="center">👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">Hi, I'm Sujal Sethi</h1>
+<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">Hi, I'm Sujal Sethi</h1>
 <h3 align="center">Data Science Enthusiast with a passion for Problem-solving and Analytics</h3>
 <br>
 

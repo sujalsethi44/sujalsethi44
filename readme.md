@@ -28,7 +28,8 @@
 
   <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=udaypalecha&theme=monokai" alt="udaypalecha" width="90%" />
+<img src="https://github-profile-trophy.vercel.app/?username=sujalsethi44&theme=monokai" alt="sujalsethi44" width="90%" />
+
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sujalsethi44&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="sujalsethi44's GitHub Stats" />

@@ -7,7 +7,7 @@
 
 - 📚 Currently a **Final Year DataScience Student**
 - 👨🏻‍💻 I'm seeking an organization where I can apply my skills.
-- 📽 All of my projects are available [here](https://github.com/sujalsethi44)
+- 📽 All of my projects are available [here]([https://github.com/sujalsethi44](https://github.com/sujalsethi44?tab=repositories))
 
 ---
 
@@ -28,18 +28,7 @@
 
   <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sujalsethi44&theme=monokai" alt="sujalsethi44" width="90%" />
 
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujalsethi44&show_icons=true&theme=highcontrast&hide_border=true&locale=en" alt="sujalsethi44's GitHub Stats" />
-</p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sujalsethi44&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujalsethi44&hide_border=true&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="sujalsethi44's Top Languages" />
-</p>
 
 <br><br><br><br><br><br><br>
 <p align="left">

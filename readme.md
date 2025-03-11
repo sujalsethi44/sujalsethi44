@@ -18,8 +18,8 @@
 </div>
 
 ## Hey <img src="https://media.giphy.com/media/2MevupEaJcDhIOpRYz/giphy.gif" width="20">, I'm [Sujal!]((https://sujalsethi.netlify.app/)) 
-🧑 Currently a *Final Year DataScience Student* <br>
-👨🏻‍💻 I'm seeking an organization where I can apply my skills. <br>
+🧑 Welcome to the world of Sujal Sethi, a Generative AI developer known for pushing the boundaries of innovation and technology. With a Bachelors in Artificial Intelligence, Sujal combines deep technical expertise and a creative edge to craft intelligent solutions that feel almost robotic—yet in the best way possible. Sujal's work has been recognized in collaboration with top PhD researchers, leading to two groundbreaking research papers. Dive into the mind of an AI specialist who's reshaping the future, one line of code at a time. <br>
+👨🏻‍💻 AI is not just a tool; it's the paintbrush that creates the future. <br>
 
 🔥 Want to collaborate with me for a project. Drop a message here - <a href="sujalsethi12344@gmail.com">`sujalsethi12344@gmail.com`</a>
 ><h3 align="left">🧑🏻‍💻 Languages and Tools:</h3>

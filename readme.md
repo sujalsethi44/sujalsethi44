@@ -1,7 +1,7 @@
 <div >
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/A0B7BnpAVRjMJYBZWD/giphy.gif" width="300"/>
-  <h3 align="center">Data Science Enthusiast with a passion for Problem-solving and Analytics</h3>
+  <h3 align="center">Generative AI Developer</h3>
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/sujalsethi44/" target="_blank">
@@ -27,6 +27,23 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Swagger API](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+![Large Language Models (LLM)](https://img.shields.io/badge/LLM-008080?style=for-the-badge&logo=ai&logoColor=white)
+![Agentic Framework](https://img.shields.io/badge/Agentic%20Framework-FF4B4B?style=for-the-badge&logo=framework&logoColor=white)
+![Retrieval-Augmented Generation (RAG)](https://img.shields.io/badge/RAG-29B5E8?style=for-the-badge&logo=ai&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
